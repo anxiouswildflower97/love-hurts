@@ -1,0 +1,25 @@
+.container {
+	padding-top: 50px;
+	padding-bottom: 50px;
+    padding-left: 50px;
+	padding-right: 50px;
+}
+
+.title {
+    font-family: 'Beth Ellen';
+}
+
+.intro {
+    font-family: 'Cutive Mono';
+    padding-top: 50px;
+}
+
+button {
+    font-family: 'Beth Ellen';
+}
+
+#q1, #q2, #q3, #q4, #q5, #q6, #q7, #q8 {
+    font-family: 'Syne Mono';
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
