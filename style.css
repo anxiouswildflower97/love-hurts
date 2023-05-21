@@ -9,9 +9,15 @@
     font-family: 'Beth Ellen';
 }
 
+.titleContainer {
+    display: flex;
+    flex-wrap: row;
+    justify-content: center;
+}
+
 .intro {
     font-family: 'Cutive Mono';
-    padding-top: 50px;
+    padding-top: 20px;
 }
 
 button {
