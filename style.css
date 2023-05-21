@@ -7,6 +7,7 @@
 
 .title {
     font-family: 'Beth Ellen';
+    padding-bottom: 50px;
 }
 
 .titleContainer {
@@ -17,15 +18,20 @@
 
 .intro {
     font-family: 'Cutive Mono';
-    padding-top: 20px;
+    padding-bottom: 50px;
 }
 
 button {
     font-family: 'Beth Ellen';
+    height: 30px;
+}
+
+.divider {
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #q1, #q2, #q3, #q4, #q5, #q6, #q7, #q8, #q9, #q10, #q11, #q12, #q13, #q14, #q15, #q16, #q17 {
     font-family: 'Syne Mono';
-    padding-top: 50px;
     padding-bottom: 10px;
 }
